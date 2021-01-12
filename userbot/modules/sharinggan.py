@@ -131,6 +131,6 @@ async def _(fry):
 
 CMD_HELP.update({
     "sharinggan":
-    "`.kamuii` or `.kamuii` [level(1-8)]"
+    "`.kamehaa` or `.kameha` [level(1-8)]"
     "\nUsage: deepfry image/sticker from the reply."
 })
